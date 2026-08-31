@@ -178,7 +178,8 @@ FROM top3_revenue, total_revenue;
 ---
 
 Общий вид дашборда на примере среза для августа
-<img width="1513" height="861" alt="image" src="https://github.com/user-attachments/assets/d8279b3c-2916-40e1-bc9e-acfb6dd73545" />
+<img width="1449" height="808" alt="image" src="https://github.com/user-attachments/assets/3b81b5b9-c6f1-4440-8b6d-66093f3863d3" />
+
 
 
 ## Рекомендации
